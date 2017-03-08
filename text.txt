@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 dlfjlskjfls
-=======
 Hello!
 TEST!!!
->>>>>>> 01b6b334729a0a0e784826728c886057609d23c1
+Done in github
